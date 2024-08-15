@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 163c759ef5733994ca21470c9d1712ac, type: 3}
+  m_Name: PistolWeaponDAta
+  m_EditorClassIdentifier: 
+  weaponPrefab: {fileID: 4229526060374397625, guid: 5c575c31c1a014f4c8528f4d48426648, type: 3}
+  <BulletData>k__BackingField: {fileID: 11400000, guid: 852eb6d636136cd45ac74bb173e96dba, type: 2}
+  <AmmoCapacity>k__BackingField: 100
+  <Damage>k__BackingField: 2
+  <AutomaticFire>k__BackingField: 1
+  <WeaponDelay>k__BackingField: 1.101
+  <SpreadAngle>k__BackingField: 1.47
+  multiBulletShoot: 0
+  bulletCount: 1
